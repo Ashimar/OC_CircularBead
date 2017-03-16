@@ -84,6 +84,8 @@
 //    imageView.layer.mask = maskLayer;
 //    [cell addSubview:imageView];
     
+    
+//    1和3 会导致离屏渲染 圆角多会影响页面帧率。 圆角多的时候 2比较好。配合异步+缓存
     return cell;
 }
 
