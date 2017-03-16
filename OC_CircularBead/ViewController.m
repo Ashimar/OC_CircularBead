@@ -4,7 +4,8 @@
 //
 //  Created by myios on 2017/3/16.
 //  Copyright © 2017年 Ashimar. All rights reserved.
-//
+//  http://blog.csdn.net/messi_m10/article/details/54377628
+//http://www.jianshu.com/p/e97348f42276
 
 #import "ViewController.h"
 
